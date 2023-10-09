@@ -1,2 +1,4 @@
 # ITCX-TK
-Generation code used to store ITCX title data.
+用来存放 OJ 上的题目数据的生成代码和 std.
+现在进行蓝书的修复.
+
